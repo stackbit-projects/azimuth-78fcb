@@ -8,7 +8,7 @@ sections:
     subtitle: We have a plan for business of all shapes and sizes.
     pricing_plans:
       - title: Essential
-        subtitle: For small businesses
+        subtitle: For those that just want piece of mind
         price: $5/m
         details: |-
           * Lorem ipsum dolor sit amet
