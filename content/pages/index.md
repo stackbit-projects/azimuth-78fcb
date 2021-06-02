@@ -7,10 +7,10 @@ sections:
     image_alt: App preview
     title: Technology should love your business as much as you.
     content: >
-      Established in 2006 we have made it our mission to help our clients find
-      the best technology that fits the work they need to do every day and make
-      sure that it works as expected, day in, day out. We are passionate about
-      helping you figure out what works best for you.
+      Since 2006 it has been our mission to help organizations use technology
+      that best fits the work they do, and make sure it works as expected, day
+      in, day out. Want to find out more about what works best for you and your
+      team, get in touch.
     actions:
       - label: Learn More
         url: /features
