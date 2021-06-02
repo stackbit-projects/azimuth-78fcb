@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Technology should love your business as much as you.
+    title: Technology should love your business as much as you do.
     content: >
       Since 2006 it has been our mission to help organizations use technology
       that best fits the work they do, and make sure it works as expected, day
