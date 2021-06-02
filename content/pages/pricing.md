@@ -7,7 +7,7 @@ sections:
     title: Pricing Plans
     subtitle: We have a plan for business of all shapes and sizes.
     pricing_plans:
-      - title: Basic
+      - title: Essential
         subtitle: For small businesses
         price: $5/m
         details: |-
