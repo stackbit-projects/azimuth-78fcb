@@ -20,7 +20,9 @@ sections:
             url: /signup
             style: secondary
       - title: Professional
-        subtitle: For medium-sized businesses
+        subtitle: >-
+          For those that want the peace of mind plus our flat-rate helpdesk
+          services
         price: $49/m
         details: |-
           * Curabitur non nunc mollis
