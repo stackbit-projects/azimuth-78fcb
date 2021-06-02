@@ -25,7 +25,7 @@ sections:
         subtitle: >-
           For those that want the peace of mind plus our flat-rate helpdesk
           services
-        price: $49/m
+        price: $50
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
