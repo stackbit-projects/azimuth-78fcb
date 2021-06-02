@@ -51,7 +51,7 @@ export default class Footer extends React.Component {
                             </div>
                         )}
                         {
-                            <
+                            <div
                             
                             /* <div className="site-info">
                             {htmlToReact(footerContent)}
