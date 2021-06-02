@@ -50,7 +50,10 @@ export default class Footer extends React.Component {
                                 </ul>
                             </div>
                         )}
-                        {/* <div className="site-info">
+                        {
+                            <
+                            
+                            /* <div className="site-info">
                             {htmlToReact(footerContent)}
                             &nbsp;
                             {_.map(links, (action, actionIdx) => (
