@@ -1,5 +1,5 @@
 ---
-title: 
+title: Testing the Blog Article
 subtitle: A story about customer loyalty
 author: content/data/authors/jane-doe.yaml
 excerpt: >-
@@ -11,7 +11,7 @@ thumb_image_alt: A group of people working in a cafe
 image: images/3.jpg
 image_alt: A group of people working in a cafe
 seo:
-  title: 
+  title: Testing the Blog Article
   description: >-
     A story about customer loyalty curabitur sed consectetur nisi. Integer sit
     amet commodo massa.
@@ -20,7 +20,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 
+      value: Testing the Blog Article
       keyName: property
     - name: 'og:description'
       value: >-
@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 
+      value: Testing the Blog Article
     - name: 'twitter:description'
       value: >-
         A story about customer loyalty curabitur sed consectetur nisi. Integer
