@@ -38,7 +38,9 @@ sections:
             url: /signup
             style: primary
       - title: Executive
-        subtitle: For very large businesses
+        subtitle: >-
+          For organizations that are looking for a flat rate to cover all things
+          technology
         price: $149/m
         details: |-
           * Vestibulum non eros quis
