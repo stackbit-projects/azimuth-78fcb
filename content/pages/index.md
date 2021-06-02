@@ -104,7 +104,7 @@ sections:
     title: Latest Posts
 seo:
   title: Technology for Texas Companies
-  description: The preview of the Azimuth theme
+  description: Technology that loves your business as much as you do is here Texas!
   extra:
     - name: 'og:type'
       value: website
