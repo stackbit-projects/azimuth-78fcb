@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Pricing Plans
-    subtitle: We have a plan for business of all shapes and sizes.
+    subtitle: We have a plan for business of all shapes and sizes
     pricing_plans:
       - title: Essential
         subtitle: >-
