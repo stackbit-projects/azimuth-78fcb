@@ -104,7 +104,7 @@ sections:
     title: Latest Posts
 seo:
   title: MAKIOS® TECHNOLOGY | Dallas Ft Worth El Paso Texas
-  description: Technology that loves your business as much as you do is here Texas!
+  description: Great technology should work for you and love your business as much as you.
   extra:
     - name: 'og:type'
       value: website
