@@ -6,9 +6,11 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Technology should love your business as much as you.
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Established in 2006 we have made it our mission to help our clients find
+      the best technology that fits the work they need to do every day and make
+      sure that it works as expected, day in, day out. We are passionate about
+      helping you figure out what works best for you.
     actions:
       - label: Learn More
         url: /features
