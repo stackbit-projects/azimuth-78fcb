@@ -11,7 +11,7 @@ sections:
         subtitle: >-
           For those that just want piece of mind to make sure their organization
           is covered
-        price: $5/m
+        price: $25
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
