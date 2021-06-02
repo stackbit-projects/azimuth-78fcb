@@ -51,7 +51,7 @@ export default class Footer extends React.Component {
                             </div>
                         )}
                         <div className="site-info">
-                           Makios ® © Stackbit. All rights reserved. This Jamstack site was created with Stackbit. Create yours now. 
+                           © {} Stackbit. All rights reserved. This Jamstack site was created with Stackbit. Create yours now. 
                         </div>
 
                         <div className="site-info">
