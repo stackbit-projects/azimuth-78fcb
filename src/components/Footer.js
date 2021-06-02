@@ -54,13 +54,13 @@ export default class Footer extends React.Component {
                            ©2021 MAKIOS® TECHNOLOGY. All rights reserved. Powered by MakiosCLOUD™
                         </div>
 
-                        <div className="site-info">
+                        {/* <div className="site-info">
                             {htmlToReact(footerContent)}
                             &nbsp;
                             {_.map(links, (action, actionIdx) => (
                                 <ActionLink key={actionIdx} action={action} />
                             ))}
-                        </div>
+                        </div> */}
 
                     </div>
                 </div>
