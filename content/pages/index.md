@@ -103,7 +103,7 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Makios® Technology |
+  title: MAKIOS® TECHNOLOGY | Dallas Ft Worth El Paso Texas
   description: Technology that loves your business as much as you do is here Texas!
   extra:
     - name: 'og:type'
