@@ -41,7 +41,7 @@ sections:
         subtitle: >-
           For organizations that are looking for a flat rate to cover all things
           technology
-        price: $149/m
+        price: $95
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
