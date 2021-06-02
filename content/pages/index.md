@@ -103,7 +103,7 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Technology for Texas Companies
+  title: Makios® Technology |
   description: Technology that loves your business as much as you do is here Texas!
   extra:
     - name: 'og:type'
