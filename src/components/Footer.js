@@ -51,11 +51,7 @@ export default class Footer extends React.Component {
                             </div>
                         )}
                         <div className="site-info">
-                            {htmlToReact(footerContent)}
-                            &nbsp;
-                            {_.map(links, (action, actionIdx) => (
-                                <ActionLink key={actionIdx} action={action} />
-                            ))}
+                           Makios ® 
                         </div>
 
                         {/* <div className="site-info">
