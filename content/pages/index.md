@@ -23,7 +23,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
     features:
-      - title: 'Nobody wants to be told what to do, technology needs to.'
+      - title: 'People don''t want to be told what to do, but technology needs to.'
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
