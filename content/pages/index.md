@@ -12,7 +12,7 @@ sections:
       expected, day in, day out. And when it doesn't, no worries, we got a team
       of super-hero-nerds ready to help.
     actions:
-      - label: Learn More
+      - label: Get a quote
         url: /features
         style: primary
   - section_id: features
