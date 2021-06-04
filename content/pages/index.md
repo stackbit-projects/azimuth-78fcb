@@ -27,10 +27,9 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
-          The best day is when you walk the floor of your business and the
-          machine you built purrs away. We cannot control people's every move,
-          but technology is a bit more forgiving when it is told what to do. So
-          let's make sure you're telling tech who's boss.
+          Let's work together and tell technology who's boss so that every day
+          you walk the floor of your business things work as they should. Don't
+          worry, technology is a bit more forgiving when it is told what to do.
         actions:
           - label: Learn More
             url: /features
