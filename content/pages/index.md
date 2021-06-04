@@ -7,10 +7,10 @@ sections:
     image_alt: App preview
     title: Technology that loves your business as much as you.
     content: >
-      Since 2006 it has been our mission to help organizations use technology
-      that best fits the work they do, and make sure it works as expected, day
-      in, day out. Want to find out more about what works best for you and your
-      team, get in touch.
+      Since 2006 it has been our mission to help organizations reliably use the
+      technology for the work they do. Our team makes sure things work as
+      expected, day in, day out. And when it doesn't, no worries, we got a team
+      of super-hero-nerds ready to help.
     actions:
       - label: Learn More
         url: /features
