@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/Makios Monito.svg
+    image: /images/clever-crane.svg
     image_alt: App preview
     title: Technology that loves your business as much as you.
     content: >
