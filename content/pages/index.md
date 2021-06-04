@@ -26,10 +26,11 @@ sections:
       - title: Every business wants things to work as they should.
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          The best day is when you walk the floor of your business and the
+          machine you built purrs away. We cannot control people's every move,
+          but technology is a bit more forgiving when it is told what to do. So
+          let's make sure you're telling tech who's boss.
         actions:
           - label: Learn More
             url: /features
