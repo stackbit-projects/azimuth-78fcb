@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/clever-crane.svg
+    image: /images/Group 5.svg
     image_alt: App preview
     title: Technology that loves your business as much as you.
     content: >
