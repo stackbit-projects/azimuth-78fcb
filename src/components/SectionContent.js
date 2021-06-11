@@ -27,8 +27,7 @@ export default class SectionContent extends React.Component {
                         <div className="cell block-content">
                             {title && <h2 className="block-title underline">{title}</h2>}
                             {content && <div className="block-copy">{markdownify(content)}</div>}
-
-                           {actions && (
+                            {actions && (
                                 <div className="block-buttons">
                                     <CtaButtons actions={actions} />
                                 </div>
