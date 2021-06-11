@@ -8,8 +8,9 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Need better technology?
     content: >
-      Every plan was carefully crafted to provide you the best value. Besides
-      the plans below, custom solutions are always an option.
+      Every service we offer has been carefully tested and verified so it
+      provides you the best value. Besides the standard plans, custom plans are
+      also available upon request.
     actions:
       - label: Free Trial
         url: /signup
