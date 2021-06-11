@@ -10,9 +10,4 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+When you partner with us, our helpdesk provides you with a central point of contact for your IT issues. We don’t just assign you one person (who might be tied up with a different client when you call)—we give you access to the entire helpdesk team and strive to be an off-site extension of your team.
