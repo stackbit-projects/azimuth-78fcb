@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 sections:
-  - section_id: lorem-ipsum
+  - section_id: cyber-quiz
     title: How Protected Are You?
     content: |
       <\<CYBER-QUIZ>>
