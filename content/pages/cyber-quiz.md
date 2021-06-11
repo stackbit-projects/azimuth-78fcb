@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Cybersecurity Quiz
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
