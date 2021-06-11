@@ -1,6 +1,6 @@
 ---
 title: Cybersecurity Quiz
-subtitle: lorem-ipsum
+subtitle: Find out how well you are protected against cyber
 image_alt: lorem-ipsum
 seo:
   title: ''
