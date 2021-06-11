@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections:
   - section_id: cyber-quiz
-    title: How Protected Are You?
+    title: Take the cyber-quiz!
     content: |
       <\<CYBER-QUIZ>>
     image_alt: lorem-ipsum
