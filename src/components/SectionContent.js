@@ -32,7 +32,6 @@ export default class SectionContent extends React.Component {
                             
                             }
 
-<script type="text/javascript" src="https://makios.formstack.com/forms/js.php/cybersecurity_quiz_form"></script><noscript><a href="https://makios.formstack.com/forms/cybersecurity_quiz_form" title="Online Form">Online Form - Cybersecurity Quiz Form</a></noscript>
 
                             {actions && (
                                 <div className="block-buttons">
