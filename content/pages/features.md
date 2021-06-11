@@ -24,7 +24,7 @@ sections:
       Our team of technology specialists and professionals is ready to spend
       some time with you.
     actions:
-      - label: Get Started
+      - label: Schedule Free Consultation
         url: '#'
         style: secondary
 seo:
