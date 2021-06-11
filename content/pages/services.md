@@ -6,7 +6,7 @@ sections:
     background: gray
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
-    title: Need better technology?
+    title: Looking for services?
     content: >
       Every service we offer has been carefully tested and verified so it
       provides you the best value. Besides the standard plans, custom plans are
