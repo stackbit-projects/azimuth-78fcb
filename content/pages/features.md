@@ -20,7 +20,9 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Want to talk about getting the most out of technology?
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      Our team of technology specialists and professionals is ready to spend
+      some time with you.
     actions:
       - label: Get Started
         url: '#'
