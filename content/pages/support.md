@@ -1,6 +1,6 @@
 ---
 title: Support
-subtitle: please make your selection
+subtitle: please select the service you need help with
 image_alt: lorem-ipsum
 seo:
   title: ''
