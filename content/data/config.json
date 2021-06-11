@@ -40,7 +40,7 @@
                 "type": "action"
             },
             {
-                "label": "Sign Up",
+                "label": "Support",
                 "url": "/signup",
                 "style": "primary"
             }
