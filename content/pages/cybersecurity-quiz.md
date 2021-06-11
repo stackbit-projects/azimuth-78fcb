@@ -3,17 +3,8 @@ title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
     title: How Protected Are You?
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      <\<CYBER-QUIZ>>
     image_alt: lorem-ipsum
     background: gray
     actions: []
