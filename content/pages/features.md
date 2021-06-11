@@ -6,7 +6,7 @@ sections:
     background: gray
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
-    title: The Best Features of Your Services
+    title: Need better technology?
     content: >
       Every plan was carefully crafted to provide you the best value. Besides
       the plans below, custom solutions are always an option.
